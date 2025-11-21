@@ -37,7 +37,7 @@ Kami ingin mempermudah player & komunitas lokal untuk memahami gameplay, sistem,
  ┣ 📄 includes_win                          # Aset khusus windows
  ┣ 📜 character_system_text_dict.json       # Berkas interaksi karakter
  ┣ 📜 config.json                           # Berkas konfigurasi
- ┣ 📜 hashed_dict.json                      # Berkas aset dictionary dalam hash
+ ┣ 📜 hashed_dict.json                      # Berkas dictionary aset dalam hash
  ┣ 📜 localize_dict.json                    # Berkas dictionary lokalisasi
  ┣ 📜 race_jikkyo_comment_dict.json         # Berkas dictionary komentator lomba
  ┣ 📜 race_jikkyo_message_dict.json         # Berkas dictionary teks komentator lomba
