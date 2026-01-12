@@ -6,6 +6,10 @@
             "name": "<username>"
         },
         {
+            "text": "『Tidak ada orang lain selain aku』, katamu……\ntapi, kenapa kamu mikir gitu tentang aku……?",
+            "name": "<username>"
+        },
+        {
             "text": "……Sebenarnya, kami udah tahu tentang kamu sebelum kita masuk sini.",
             "name": "Cesario"
         },
@@ -22,6 +26,10 @@
         },
         {
             "text": "Ayahku, yang punya insting tajam soal Uma Musume \ndan bisa melatih mereka dengan jago, jadi 『Terkenal』 \nkarena berhasil bikin banyak Uma Musume kuat.",
+            "name": "<username>"
+        },
+        {
+            "text": "Dia jadi pelatih top di usia muda. \nSekarang dia memutuskan pensiun, dan ke depannya……\naku yang bakal ambil alih timnya, <Ascella>.",
             "name": "<username>"
         },
         {
@@ -81,6 +89,14 @@
             "name": "<username>"
         },
         {
+            "text": "(Nggak bagus……King kelihatan nggak tenang……\nAku pengen ngasih saran biar dia lebih percaya diri……tapi……!)",
+            "name": "<username>"
+        },
+        {
+            "text": "(Jujur……aku nggak tahu mau ngomong apa! \nDi Satsuki, Seiun Sky bikin kita kewalahan, jadi aku pengen \ndia hati-hati di depan tapi――)",
+            "name": "<username>"
+        },
+        {
             "text": "(Jujur……aku nggak tahu mau ngomong apa! \nDi Satsuki, Seiun Sky bikin kita kewalahan, jadi aku pengen \ndia hati-hati di depan tapi――)",
             "name": "<username>"
         },
@@ -90,6 +106,14 @@
         },
         {
             "text": "(Terus aku harus ngapain? Bilang apa? \nPosisi dia di mana, siapa yang dia tandai, gimana cara larinya……!?)",
+            "name": "<username>"
+        },
+        {
+            "text": "(Terus aku harus ngapain? Bilang apa? \nPosisi dia di mana, siapa yang dia tandai, gimana cara larinya……!?)",
+            "name": "<username>"
+        },
+        {
+            "text": "(Sial, sial, sial! Kok nggak kepikiran apa-apa!? \nPadahal aku……!)",
             "name": "<username>"
         },
         {
@@ -110,6 +134,10 @@
         {
             "text": "Ah…… \n……aku harus pergi……",
             "name": "King Halo"
+        },
+        {
+            "text": "(Waktu habis……! Aku nggak sempat bilang apa-apa……!!)",
+            "name": "<username>"
         },
         {
             "text": "(Waktu habis……! Aku nggak sempat bilang apa-apa……!!)",
@@ -175,12 +203,23 @@
             "name": "<username>"
         },
         {
+            "text": "(Setelah itu, kita kalah lagi di dua balapan besar, \ntermasuk 『Kikka Sho』. Tahun klasiknya berakhir \ntanpa memenuhi ekspektasi――)",
+            "name": "<username>"
+        },
+        {
             "text": "……Kayaknya nggak ada artikel tentang Team <Ascella> hari ini juga. \nYa udah, paling juga artikel terbaru cuma nyinyir sama kita.",
             "name": "King Halo"
         },
         {
             "text": "……Mungkin ini berarti dunia akhirnya nggak peduli lagi sama Unreliable Second Gen Duo……",
             "name": "King Halo"
+        },
+        {
+            "text": "(Aku payah. Aku pengen ilang aja. Gara-gara aku nggak becus, \ntahun klasik sekali seumur hidup King……)",
+            "name": "<username>",
+            "choice_data_list": [
+                "(……Tapi――!)"
+            ]
         },
         {
             "text": "(Aku payah. Aku pengen ilang aja. Gara-gara aku nggak becus, \ntahun klasik sekali seumur hidup King……)",
@@ -197,6 +236,17 @@
             ]
         },
         {
+            "text": "(Jangan cuma minta maaf. Jangan nyerah. ……Jangan lari! \nAku pelatih King Halo!)",
+            "name": "<username>",
+            "choice_data_list": [
+                "<size=42>(Artinya, masih ada yang bisa dilakukan!)</size>"
+            ]
+        },
+        {
+            "text": "King. ……balapan berikutnya 『Yasuda Kinen』 gimana? \nAku mau pake senjatamu yang paling ampuh, kecepatamu.",
+            "name": "<username>"
+        },
+        {
             "text": "King. ……balapan berikutnya 『Yasuda Kinen』 gimana? \nAku mau pake senjatamu yang paling ampuh, kecepatamu.",
             "name": "<username>"
         },
@@ -209,8 +259,16 @@
             "name": "<username>"
         },
         {
+            "text": "Walaupun ada yang nyinyir, bilang mustahil. Jangan pernah, \nsampai hari kamu bisa angkat kepala sebagai 『First Rate Uma Musume』!",
+            "name": "<username>"
+        },
+        {
             "text": "……~~~, jelas kan!? \nAku benci kalau harus nyerah, kalau ini udah berakhir!!",
-            "name": "King Halo"
+            "name": "<username>"
+        },
+        {
+            "text": "……~~~, jelas kan!? \nAku benci kalau harus nyerah, kalau ini udah berakhir!!",
+            "name": "<username>"
         },
         {
             "text": "Jadi mulai siap-siap, Trainer! Kita meeting soal balapan berikutnya! \nCuma buat kamu――aku bakal kasih privilege dukung jalannya King yang baru!",
@@ -317,6 +375,10 @@
             "name": "King Halo"
         },
         {
+            "text": "Tapi kita bisa ngelakuin sesuatu yang cuma kita bisa lakukan, \nmendapat hasil kelas satu. Siapa lagi kalo bukan karena ini?",
+            "name": "King Halo"
+        },
+        {
             "text": "Alasan aku bisa angkat kepala dan terus lari…… \nsiapa yang nemenin dan bikin itu mungkin?",
             "name": "King Halo",
             "choice_data_list": [
@@ -324,7 +386,8 @@
             ]
         },
         {
-            "text": "――Aku payah. Aku kasih senyum pahit ke King Halo, \ndan balik ke Rhein Kraft dan Cesario."
+            "text": "――Aku payah. Aku kasih senyum pahit ke King Halo, \ndan balik ke Rhein Kraft dan Cesario.",
+            "name": "King Halo "
         },
         {
             "text": "Kraft, Cesario. \n……Makasih banget udah pilih Team <Ascella>.",
@@ -339,6 +402,14 @@
             ]
         },
         {
+            "text": "Trainer-san……!!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Makasih banyak. \n……Sekali lagi, aku menunggu kerjasamanya!",
+            "name": "Cesario"
+        },
+        {   
             "text": "Trainer-san……!!",
             "name": "Rhein Kraft"
         },

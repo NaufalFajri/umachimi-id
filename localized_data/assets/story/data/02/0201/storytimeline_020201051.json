@@ -13,8 +13,19 @@
             "name": "<username>"
         },
         {
+            "text": "Selamat ya menang 『Kanchiku Sho』, Cesario.\nTernyata, kekuatanmu memang lebih ke jarak agak panjang.",
+            "name": "<username>"
+        },
+        {
             "text": "Aku pengen kamu ikut balapan besar lain sebagai persiapan\ntujuan utama 『Oka Sho』. Jadi, ayo ikut 『Flower Cup』 1800m berikutnya!",
             "name": "<username>"
+        },
+        {
+            "text": "Terus Kraft. Kamu bisa tunjukkin kemampuanmu di balapan\njarak pendek. Jadi, ikut 『Fillies' Review』 1400m ya.",
+            "name": "<username>",
+            "choice_data_list": [
+                "Ayo capai tujuan berikutnya!"
+            ]
         },
         {
             "text": "Terus Kraft. Kamu bisa tunjukkin kemampuanmu di balapan\njarak pendek. Jadi, ikut 『Fillies' Review』 1400m ya.",
