@@ -1,8 +1,8 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "<chrname> mengalami cedera parah...!"
+            "text": "<chrname>\nmengalami cedera parah...!"
         },
         {
             "text": "Haruskah aku menghiburnya, atau tetap tegas? Apa yang harus kulakukan...",
